@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "pools renderTest",
+      "Type": "map",
+      "Org": "tiowevolve",
+      "Ident": "pools",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": null,
+      "IsWhitelistDisabled": false,
+      "Metadata": {
+        "SingleAssetSource": "scenes/pools.scene",
+        "ParentPackage": "facepunch.walker"
+      }
+    }
+  }
+}

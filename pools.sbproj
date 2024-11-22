@@ -1,0 +1,15 @@
+{
+  "Title": "pools",
+  "Type": "addon",
+  "Org": "local",
+  "Ident": "pools",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "IsWhitelistDisabled": false,
+  "Metadata": {
+    "ParentPackage": "facepunch.walker"
+  }
+}

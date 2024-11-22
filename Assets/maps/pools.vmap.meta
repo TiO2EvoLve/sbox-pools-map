@@ -1,0 +1,21 @@
+{
+  "publish": {
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "pools",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "pools",
+      "Schema": 0,
+      "IncludeSourceFiles": false,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": [],
+      "IsWhitelistDisabled": false,
+      "Metadata": {
+        "SingleAssetSource": "maps/pools.vmap",
+        "ParentPackage": "facepunch.walker"
+      }
+    }
+  }
+}
